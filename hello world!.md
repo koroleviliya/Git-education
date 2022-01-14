@@ -4,4 +4,4 @@ Beginning with version control
 
 *Coursive*
 
-**Booooold**
+**Полужирный**
