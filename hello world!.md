@@ -16,3 +16,4 @@ Beginning with version control
 2. Second element
 3. Third element
 
+~~Crossed text~~
